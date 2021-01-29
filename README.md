@@ -1,4 +1,5 @@
-# fullstacktemplate
+# fullstack vuex template
+Full stack vuex template for use when i want to build bigger projects
 
 ## Project setup
 ```
