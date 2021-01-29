@@ -1,12 +1,16 @@
 # fullstack vuex template
 Full stack vuex template for use when i want to build bigger projects
 
-## Project setup
+## Project setup (do this in parent and in client folder)
 ```
 npm install
 ```
+### Start the backend api (run this in parent folder)
+```
+npm start
+```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development (run this in client folder)
 ```
 npm run serve
 ```
